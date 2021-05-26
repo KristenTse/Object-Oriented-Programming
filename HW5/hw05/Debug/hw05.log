@@ -1,0 +1,3 @@
+﻿  hw05.cpp
+C:\Users\krist\Desktop\School\Junior Year\Object Oriented Programming\Homework\hw05\hw05\hw05.cpp(156,55): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  hw05.vcxproj -> C:\Users\krist\Desktop\School\Junior Year\Object Oriented Programming\Homework\hw05\Debug\hw05.exe

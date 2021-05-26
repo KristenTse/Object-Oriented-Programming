@@ -1,0 +1,6 @@
+﻿  Noble.cpp
+  Warrior.cpp
+  hw06.cpp
+  Generating Code...
+C:\Users\krist\Desktop\hw06\hw06\Noble.cpp(111,55): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  hw06.vcxproj -> C:\Users\krist\Desktop\hw06\Debug\hw06.exe

@@ -1,0 +1,6 @@
+﻿  Noble.cpp
+  Protector.cpp
+  hw07.cpp
+  Generating Code...
+C:\Users\krist\Desktop\hw07\hw07\Noble.cpp(64,28): warning C4244:  'argument': conversion from 'double' to 'const int', possible loss of data
+  hw07.vcxproj -> C:\Users\krist\Desktop\hw07\Debug\hw07.exe
